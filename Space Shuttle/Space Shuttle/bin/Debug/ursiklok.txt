@@ -1,0 +1,5 @@
+﻿Columbia       : 16,21
+Challenger     : 3,17
+Discovery      : 21,25
+Atlantis       : 21,96
+Endeavour      : 17,63
